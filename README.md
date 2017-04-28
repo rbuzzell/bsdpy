@@ -388,7 +388,7 @@ $ sudo chkconfig --levels 235 tftp on
 $ sudo chkconfig --levels 235 iptables off
 $ sudo service nfs start
 $ sudo service xinetd start
-$ git clone https://bitbucket.org/bruienne/bsdpy.git
+$ git clone https://github.com/bruienne/bsdpy.git
 $ cd /bsdpy
 $ sudo pip install -r requirements.txt
 
